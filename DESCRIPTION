@@ -1,0 +1,9 @@
+Package: lpSummary
+Title: Summarize the outputs of lpSolveAPI results, similar to Excel's summary
+Version: 0.0.0.9000
+Authors@R: "Noah Peart <noah.v.peart@gmail.com> [aut,cre]"
+Description: What the package does (one paragraph).
+Depends: R (>= 3.5.0)
+License: WTFPL
+Encoding: UTF-8
+LazyData: true
